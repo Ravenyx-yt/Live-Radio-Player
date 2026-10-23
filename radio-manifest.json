@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "stations": [
+    {
+      "name": "SomaFM - Groove Salad",
+      "url": "https://ice1.somafm.com/groovesalad-128-mp3",
+      "theme": ""
+    },
+    {
+      "name": "SomaFM - Defcon Radio",
+      "url": "https://ice1.somafm.com/defcon-128-mp3",
+      "theme": ""
+    },
+    {
+      "name": "Radio Paradise",
+      "url": "https://stream.radioparadise.com/mp3-128",
+      "theme": ""
+    },
+    {
+      "name": "KEXP Seattle",
+      "url": "https://kexp.streamguys1.com/kexp128.mp3",
+      "theme": ""
+    },
+    {
+      "name": "BBC World Service",
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "theme": ""
+    },
+    {
+      "name": "Simulator Radio",
+      "url": "https://simulatorradio.stream/stream?t=1792616937",
+      "theme": "sim"
+    },
+    {
+      "name": "Miami Chilltrax",
+      "url": "https://streamssl.chilltrax.com/;",
+      "theme": ""
+    },
+    {
+      "name": "Metal Rock Radio",
+      "url": "https://cast3.torontocast.com:1310/;",
+      "theme": ""
+    },
+    {
+      "name": "The Coast",
+      "url": "https://ice64.securenetsystems.net/THECOAST",
+      "theme": "coast"
+    },
+    {
+      "name": "Key 93.7",
+      "url": "https://ice8.securenetsystems.net/WKEYFM",
+      "theme": ""
+    },
+    {
+      "name": "The Mellow Sound",
+      "url": "https://free.rcast.net/200491",
+      "theme": ""
+    },
+    {
+      "name": "97 Underground",
+      "url": "https://s6.reliastream.com/proxy/97underground?mp=/stream",
+      "theme": ""
+    },
+    {
+      "name": "24/7 Lo-Fi Radio",
+      "url": "https://ec3.yesstreaming.net:3755/stream",
+      "theme": ""
+    },
+    {
+      "name": "Chill Digital Radio",
+      "url": "https://ice-sov.musicradio.com/ChillMP3",
+      "theme": ""
+    },
+    {
+      "name": "Frisky Radio",
+      "url": "https://stream.chill.friskyradio.com/mp3_low",
+      "theme": ""
+    },
+    {
+      "name": "Plan-A Radio",
+      "url": "https://s5.radio.co/s49dfee81d/listen",
+      "theme": ""
+    },
+    {
+      "name": "Harley Davidson Radio",
+      "url": "https://hdradioclassicrock-rfritschka.radioca.st/;",
+      "theme": "harley"
+    },
+    {
+      "name": "Harley Davidson Radio: The Blues",
+      "url": "https://haradioblues-rfritschka.radioca.st/;",
+      "theme": "blues"
+    },
+    {
+      "name": "Halloween Radio",
+      "url": "https://radio1.streamserver.link:8000/hrm-aac",
+      "theme": "halloween"
+    },
+    {
+      "name": "Purple Cat Radio",
+      "url": "https://das-edge63-live365-dal03.cdnstream.com/a30440?listeningSessionId=V1dDRUc3NFhLVzZZUjJMUDNPVE9WQVFPR01fZGFzLWVkZ2U2My1saXZlMzY1LWRhbDAzLmNkbnN0cmVhbS5jb206ODE4Ng..&aw_0_1st.playerId=Live365-Widget&aw_0_1st.skey=1792727280480",
+      "theme": "forest"
+    },
+    {
+      "name": "102.7 KIIS FM",
+      "url": "https://cloud.revma.ihrhls.com/zc185?rj-org=n1cb-e2&rj-ttl=5&rj-tok=AAABoWaQOGYAbs2WXHLwNU64vQ",
+      "theme": "kiis"
+    }
+  ],
+  "desktop": {
+    "version": "1.0.0",
+    "url": "",
+    "sha256": "",
+    "notes": ""
+  },
+  "mobile": {
+    "version": "1.0.0",
+    "url": "",
+    "notes": ""
+  }
+}
