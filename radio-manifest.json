@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "stations": [
     {
       "name": "SomaFM - Groove Salad",
@@ -120,11 +120,6 @@
       "name": "102.7 KIIS FM",
       "url": "https://cloud.revma.ihrhls.com/zc185?rj-org=n1cb-e2&rj-ttl=5&rj-tok=AAABoWaQOGYAbs2WXHLwNU64vQ",
       "theme": "kiis"
-    },
-    {
-      "name": "Z104.3 Baltimore",
-      "url": "https://stream.revma.ihrhls.com/zc1077/hls.m3u8?streamid=1077&zip=&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=13295488375&clientType=web&companionAds=false&deviceName=web-mobile&dist=iheart&host=webapp.US&listenerId=fe49e9fa3531004163285113221f1ad7&playedFrom=157&pname=live_profile&profileId=13295488375&stationid=1077&terminalId=159&territory=US&us_privacy=1-N-",
-      "theme": "kiis"
     }
   ],
   "desktop": {
@@ -134,7 +129,7 @@
     "notes": ""
   },
   "mobile": {
-    "version": "1.0.0",
+    "version": "1.0.6",
     "url": ""
   }
 }
