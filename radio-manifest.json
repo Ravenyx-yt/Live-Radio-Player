@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "stations": [
     {
       "name": "SomaFM - Groove Salad",
@@ -49,6 +49,11 @@
     {
       "name": "Key 93.7",
       "url": "https://ice8.securenetsystems.net/WKEYFM",
+      "theme": "coast"
+    },
+    {
+      "name": "Radio Margaritaville",
+      "url": "https://s12.myradiostream.com:18442/listen.mp3",
       "theme": "coast"
     },
     {
