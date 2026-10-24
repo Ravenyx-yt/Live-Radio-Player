@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "stations": [
     {
       "name": "SomaFM - Groove Salad",
@@ -49,7 +49,7 @@
     {
       "name": "Key 93.7",
       "url": "https://ice8.securenetsystems.net/WKEYFM",
-      "theme": ""
+      "theme": "coast"
     },
     {
       "name": "The Mellow Sound",
@@ -64,12 +64,12 @@
     {
       "name": "24/7 Lo-Fi Radio",
       "url": "https://ec3.yesstreaming.net:3755/stream",
-      "theme": ""
+      "theme": "forest"
     },
     {
       "name": "Chill Digital Radio",
       "url": "https://ice-sov.musicradio.com/ChillMP3",
-      "theme": ""
+      "theme": "forest"
     },
     {
       "name": "Frisky Radio",
@@ -115,7 +115,6 @@
   },
   "mobile": {
     "version": "1.0.0",
-    "url": "",
-    "notes": ""
+    "url": ""
   }
 }
