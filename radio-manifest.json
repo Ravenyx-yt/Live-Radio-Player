@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "stations": [
     {
       "name": "SomaFM - Groove Salad",
@@ -94,6 +94,11 @@
     {
       "name": "Harley Davidson Radio: The Blues",
       "url": "https://haradioblues-rfritschka.radioca.st/;",
+      "theme": "blues"
+    },
+    {
+      "name": "Mission Control Radio",
+      "url": "https://cast1.my-control-panel.com/proxy/missionc/stream",
       "theme": "blues"
     },
     {
