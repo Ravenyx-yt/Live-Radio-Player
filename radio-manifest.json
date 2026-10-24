@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "stations": [
     {
       "name": "SomaFM - Groove Salad",
@@ -105,6 +105,11 @@
       "name": "Purple Cat Radio",
       "url": "https://das-edge63-live365-dal03.cdnstream.com/a30440?listeningSessionId=V1dDRUc3NFhLVzZZUjJMUDNPVE9WQVFPR01fZGFzLWVkZ2U2My1saXZlMzY1LWRhbDAzLmNkbnN0cmVhbS5jb206ODE4Ng..&aw_0_1st.playerId=Live365-Widget&aw_0_1st.skey=1792727280480",
       "theme": "forest"
+    },
+    {
+      "name": "The Heat",
+      "url": "https://lifesongs.streamguys1.com/theheat-aac",
+      "theme": ""
     },
     {
       "name": "102.7 KIIS FM",
