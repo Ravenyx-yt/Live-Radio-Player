@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 2,
   "stations": [
     {
       "name": "SomaFM - Groove Salad",
@@ -52,11 +52,6 @@
       "theme": "coast"
     },
     {
-      "name": "Radio Margaritaville",
-      "url": "https://s12.myradiostream.com:18442/listen.mp3",
-      "theme": "coast"
-    },
-    {
       "name": "The Mellow Sound",
       "url": "https://free.rcast.net/200491",
       "theme": ""
@@ -69,12 +64,12 @@
     {
       "name": "24/7 Lo-Fi Radio",
       "url": "https://ec3.yesstreaming.net:3755/stream",
-      "theme": "forest"
+      "theme": ""
     },
     {
       "name": "Chill Digital Radio",
       "url": "https://ice-sov.musicradio.com/ChillMP3",
-      "theme": "forest"
+      "theme": ""
     },
     {
       "name": "Frisky Radio",
@@ -97,8 +92,8 @@
       "theme": "blues"
     },
     {
-      "name": "Mission Control Radio",
-      "url": "https://cast1.my-control-panel.com/proxy/missionc/stream",
+      "name": "Harley Davidson Radio: Country",
+      "url": "https://hdradiocountry-rfritschka.radioca.st/;",
       "theme": "blues"
     },
     {
@@ -112,24 +107,24 @@
       "theme": "forest"
     },
     {
-      "name": "The Heat",
-      "url": "https://lifesongs.streamguys1.com/theheat-aac",
-      "theme": ""
-    },
-    {
       "name": "102.7 KIIS FM",
       "url": "https://cloud.revma.ihrhls.com/zc185?rj-org=n1cb-e2&rj-ttl=5&rj-tok=AAABoWaQOGYAbs2WXHLwNU64vQ",
+      "theme": "kiis"
+    },
+    {
+      "name": "Hot 97.5 FM",
+      "url": "https://17653.live.streamtheworld.com/KVEGFM.mp3",
       "theme": "kiis"
     }
   ],
   "desktop": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "url": "",
     "sha256": "",
     "notes": ""
   },
   "mobile": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "url": ""
   }
 }
